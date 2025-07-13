@@ -1,5 +1,8 @@
 # 3dShapes
 
+<img width="1728" height="1082" alt="Captura de Tela 2025-07-13 às 16 03 41" src="https://github.com/user-attachments/assets/5e913e0b-4dab-42b8-8221-199bcedae6f6" />
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
 
 ## Development server
